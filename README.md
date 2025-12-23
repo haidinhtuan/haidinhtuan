@@ -5,11 +5,11 @@
 
 - 🔭 I’m currently working on **Compute Continuum, Cloud-native architectures, and network automation**
 
-- ⚙️ I care about **reliability, scalability, and interoperability**
+- 🚀 Passionate about **bridging research and real-world production systems**
 
 - 🌱 I’m currently learning **whatever breaks in production next**
 
-- 👯 I’m looking to collaborate on **Open-source networking, cloud infrastructure, automation, benchmarking**
+- 👯 I’m looking to collaborate on **Open-source networking, cloud infrastructure, automation**
 
 - 👨‍💻 All of my projects are available at [My GitHub](https://github.com/haidinhtuan)
 
