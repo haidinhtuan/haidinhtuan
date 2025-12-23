@@ -11,11 +11,11 @@
 
 - 🤝 I’m looking for help with **Polishing open-source tools, docs, and real world pains**
 
-- 👨‍💻 All of my projects are available at [https://github.com/haidinhtuan](https://github.com/haidinhtuan)
+- 👨‍💻 All of my projects are available at [My GitHub](https://github.com/haidinhtuan)
+
+- - 🎓 When I wear my researcher hat: [My Google Scholar](https://scholar.google.com/citations?user=GH1VXzsAAAAJ&hl=en)
 
 - 📫 How to reach me **me@haidinhtuan.com**
-
-- 📄 Know about my experiences [https://www.linkedin.com/in/haidinhtuan](https://www.linkedin.com/in/haidinhtuan)
 
 - ⚡ Fun fact **🧠 academic brain, 🕸️ network soul, ☁️ cloud native by day**
 
