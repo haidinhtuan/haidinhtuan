@@ -15,6 +15,8 @@
 
 - 📫 How to reach me **me@haidinhtuan.com**
 
+- 🎓 When I wear my researcher hat: https://scholar.google.com/citations?user=GH1VXzsAAAAJ&hl=en
+
 - 📄 Know about my experiences [https://www.linkedin.com/in/haidinhtuan](https://www.linkedin.com/in/haidinhtuan)
 
 - ⚡ Fun fact **🧠 academic brain, 🕸️ network soul, ☁️ cloud native by day**
