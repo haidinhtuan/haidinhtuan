@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=haidinhtuan&label=Profile%20views&color=0e75b6&style=flat" alt="haidinhtuan" /> </p>
 
-- 🔭 I’m currently working on **Compute Continuum architectures, automation tools**
+- 🔭 I’m currently working on **Compute Continuum, Cloud-native architectures, and network automation**
 
 - 🌱 I’m currently learning **whatever breaks in production next**
 
