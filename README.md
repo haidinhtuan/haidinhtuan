@@ -42,12 +42,21 @@
 
 <h3 align="left">GitHub Stats:</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=haidinhtuan&show_icons=true&locale=en&layout=compact" alt="haidinhtuan" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=haidinhtuan&theme=default" alt="Top Languages by Repo" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=haidinhtuan&theme=default" alt="Top Languages by Commit" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=haidinhtuan&show_icons=true&locale=en" alt="haidinhtuan" />
-  <img src="https://streak-stats.demolab.com/?user=haidinhtuan&" alt="haidinhtuan" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=haidinhtuan&theme=default" alt="Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=haidinhtuan&theme=default&utcOffset=1" alt="Productive Time" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=haidinhtuan&theme=default" alt="Contribution Graph" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=haidinhtuan&" alt="GitHub Streak" />
 </p>
 
 ---
