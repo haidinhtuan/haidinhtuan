@@ -16,6 +16,19 @@
 
 ---
 
+<h3 align="left">Featured Research:</h3>
+
+<a href="https://orcid.org/0000-0002-1811-903X"><img src="https://img.shields.io/badge/ORCID-0000--0002--1811--903X-a6ce39?style=flat&logo=orcid&logoColor=white" alt="ORCID" /></a>
+<a href="https://scholar.google.com/citations?user=GH1VXzsAAAAJ&hl=en"><img src="https://img.shields.io/badge/Google_Scholar-Profile-4285F4?style=flat&logo=google-scholar&logoColor=white" alt="Google Scholar" /></a>
+
+- **DREAMS** — Decentralized Resource Allocation and Service Management across the Compute Continuum Using Service Affinity ([arXiv](https://arxiv.org/abs/2509.07497))
+- **CRACI** — A Cloud-Native Reference Architecture for the Industrial Compute Continuum ([ResearchGate](https://www.researchgate.net/publication/395388448_CRACI_A_Cloud-Native_Reference_Architecture_for_the_Industrial_Compute_Continuum))
+- **MS2M** — A Message-based Approach for Live Stateful Microservices Migration ([arXiv](https://arxiv.org/abs/2203.05622))
+- **SAGA** — Optimizing Cloud-Native Services with a Service Affinity Graph-Based Approach (SmartNets 2024)
+- **Development Frameworks for Microservice-based Applications** — Evaluation and Comparison ([ACM](https://dl.acm.org/doi/10.1145/3393822.3432339))
+
+---
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/haidinhtuan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="haidinhtuan" height="30" width="40" /></a>
@@ -34,7 +47,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=haidinhtuan&show_icons=true&locale=en" alt="haidinhtuan" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=haidinhtuan&" alt="haidinhtuan" />
+  <img src="https://streak-stats.demolab.com/?user=haidinhtuan&" alt="haidinhtuan" />
 </p>
 
 ---
