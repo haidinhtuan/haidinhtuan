@@ -5,14 +5,10 @@
   <img src="https://komarev.com/ghpvc/?username=haidinhtuan&label=Profile%20views&color=0e75b6&style=flat" alt="haidinhtuan" />
 </p>
 
-- I'm currently working on **Compute Continuum, Cloud-native architectures, and network automation**
-- Passionate about **bridging research and real-world production systems**
-- I'm currently learning **whatever breaks in production next**
-- I'm looking to collaborate on **Open-source networking, cloud infrastructure, automation**
-- All of my projects are available at [My GitHub](https://github.com/haidinhtuan)
-- When I wear my researcher hat: [My Google Scholar](https://scholar.google.com/citations?user=GH1VXzsAAAAJ&hl=en)
-- How to reach me **me@haidinhtuan.com**
-- Fun fact: **academic brain, network soul, cloud native by day**
+- Working on cloud-native architectures, compute continuum, and network automation
+- Research engineer — I publish papers and then try to make them actually work in production
+- Google Scholar: [profile](https://scholar.google.com/citations?user=GH1VXzsAAAAJ&hl=en)
+- Reach me at **me@haidinhtuan.com**
 
 ---
 
