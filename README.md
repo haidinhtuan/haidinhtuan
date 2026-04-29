@@ -17,8 +17,8 @@
 <a href="https://orcid.org/0000-0002-1811-903X"><img src="https://img.shields.io/badge/ORCID-0000--0002--1811--903X-a6ce39?style=flat&logo=orcid&logoColor=white" alt="ORCID" /></a>
 <a href="https://scholar.google.com/citations?user=GH1VXzsAAAAJ&hl=en"><img src="https://img.shields.io/badge/Google_Scholar-Profile-4285F4?style=flat&logo=google-scholar&logoColor=white" alt="Google Scholar" /></a>
 
-- **SHADOW** — Seamless Handoff And Zero-Downtime Orchestrated Workload Migration for Stateful Microservices ([arXiv](https://arxiv.org/abs/2603.25484)) *(Accepted, IEEE International Conference on Industry 4.0, Artificial Intelligence, and Communications Technology 2026)*
-- **Serverless5GC** — Private 5G Core Deployment via a Procedure-as-a-Function Architecture ([arXiv](https://arxiv.org/abs/2603.27618)) *(Accepted, IEEE International Conference on Industry 4.0, Artificial Intelligence, and Communications Technology 2026)*
+- **SHADOW** — Seamless Handoff And Zero-Downtime Orchestrated Workload Migration for Stateful Microservices ([arXiv](https://arxiv.org/abs/2603.25484)) *(Accepted, IEEE)*
+- **Serverless5GC** — Private 5G Core Deployment via a Procedure-as-a-Function Architecture ([arXiv](https://arxiv.org/abs/2603.27618)) *(Accepted, IEEE)*
 - **DREAMS** — Decentralized Resource Allocation and Service Management across the Compute Continuum Using Service Affinity ([IEEE](https://ieeexplore.ieee.org/document/11250481))
 - **CRACI** — A Cloud-Native Reference Architecture for the Industrial Compute Continuum ([IEEE](https://ieeexplore.ieee.org/document/11410125))
 - **MS2M** — A Message-based Approach for Live Stateful Microservices Migration ([IEEE](https://ieeexplore.ieee.org/document/10942720))
